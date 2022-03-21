@@ -4,7 +4,7 @@ I will be sharing lot of interesting things here like my learnings, survival gui
 
 ### 🌱 Seedlings 
 
-* [☘️ learnings]()
+* [☘️ Learnings]()
 * [☘️ Philosophy]()
 * [☘️ Lifestyle]()
 * [☘️ Productivity]()
