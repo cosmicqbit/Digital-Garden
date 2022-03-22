@@ -4,12 +4,12 @@ I will be sharing lot of interesting things here like my learnings, survival gui
 
 ### 🌻 Seedlings 
 
-* [🌱 ~ Learnings]()
-* [🌱 ~ Philosophy]()
-* [🌱 ~ Lifestyle]()
-* [🌱 ~ Privacy]()
-* [🌱 ~ Productivity]()
-* [🌱 ~ Books]()
+* [🌱 ~ Learnings](/Learnings/)
+* [🌱 ~ Philosophy](/Philosophy/)
+* [🌱 ~ Lifestyle](/Lifestyle/)
+* [🌱 ~ Privacy](/Privacy/)
+* [🌱 ~ Productivity](/Productivity)
+* [🌱 ~ Books](/Books)
 
 ---
 #### 💡Inspiration [polarhive](https://github.com/polarhive/knowledge)
