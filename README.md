@@ -11,5 +11,8 @@ I will be sharing lot of interesting things here like my learnings, survival gui
 * [🌱 ~ Books]()
 
 ---
+### Inspiration
+* [polarhive](https://github.com/polarhive/knowledge)
+---
 [![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
