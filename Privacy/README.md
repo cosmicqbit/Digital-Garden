@@ -1,4 +1,4 @@
-## Privacy Guides & Tools
+# Privacy Guides & Tools
 ---
 ### Privacy Guides
 * [Surveillance Self-Defence](https://ssd.eff.org/)
@@ -25,3 +25,4 @@
 * [Silkky.cloud](https://silkky.cloud/)
 * [EPIC](https://www.epic.org/privacy/tools.html)
 * [Techxodus](https://wiki.techxodus.org/en/home)
+* [Decentralize](https://dt.gl/)
