@@ -6,7 +6,7 @@ I will be sharing lot of interesting things here like my learnings, survival gui
 
 * [🌱 ~ Learnings](/Learnings/)
 * [🌱 ~ Philosophy](/Philosophy/)
-* [🌱 ~ Lifestyle](/Survival/)
+* [🌱 ~ Survival](/Survival/)
 * [🌱 ~ Privacy](/Privacy/)
 * [🌱 ~ Productivity](/Productivity)
 * [🌱 ~ Books](/Books)
