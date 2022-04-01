@@ -2,7 +2,7 @@
 ---
 ### Code Editor(s)
 * [VSCodium](https://vscodium.com/)
-* [Viim](https://www.vim.org/)
+* [Vim](https://www.vim.org/)
   
 ### Browser(s)
 * [Librewolf](https://librewolf.net/https://librewolf.net/)
