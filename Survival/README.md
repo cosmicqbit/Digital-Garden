@@ -2,6 +2,7 @@
 
 ---
 ### Books
+* **When Technology Fails: A Manual for Self-Reliance, Sustainability, and Surviving the Long Emergency** by Matthew Stein
 * **SAS Survival Handbook The Ultimate Guide to Surviving Anywhere** by John 'Lofty' Wiseman
 * **The Survival Handbook** by Colin Towell
 * **How to Stay Alive in the Woods A Complete Guide to Food, Shelter and Self-Preservation Anywhere** by Bradford Angier
