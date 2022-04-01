@@ -1,19 +1,19 @@
 # Productivity tools
 ---
 ### Code Editor(s)
-* [VSCodium]()
-* [Viim]()
+* [VSCodium](https://vscodium.com/)
+* [Viim](https://www.vim.org/)
   
 ### Browser(s)
-* [Librewolf]()
-* [Firefox]()
+* [Librewolf](https://librewolf.net/https://librewolf.net/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/)
   
 ### Test Messenger
-* [Telegram]()
-* [Matrix]()
-* [Session]()
+* [Telegram](https://telegram.org/)
+* [Matrix](https://matrix.org/)
+* [Session](https://getsession.org/)
 
 ### Designing / 3D
-* [Figma]()
-* [Blender]()
+* [Figma](https://www.figma.com/)
+* [Blender](https://www.blender.org/)
   
