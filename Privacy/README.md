@@ -12,6 +12,7 @@
 * [Privacy Tools List](https://privacytoolslist.com/)
 * [Prism-Break](https://prism-break.org/)
 * [Privacy Respecting](https://github.com/nikitavoloboev/privacy-respecting)
+* [Privacy Savvy](https://privacysavvy.com/)
 * [Awesome Privacy](https://github.com/pluja/awesome-privacy)
 * [Online-tools-for-pandemic](https://etherpad.wikimedia.org/p/online-tools-for-the-pandemic)
 * [Snopyta](https://snopyta.org/)
