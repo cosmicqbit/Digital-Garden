@@ -27,3 +27,4 @@
 * [EPIC](https://www.epic.org/privacy/tools.html)
 * [Techxodus](https://wiki.techxodus.org/en/home)
 * [Decentralize](https://dt.gl/)
+* [No-Google](https://github.com/nickspaargaren/no-google)
