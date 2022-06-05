@@ -11,6 +11,7 @@ I will be sharing lot of interesting things here like my learnings, survival gui
 * [🌱 ~ Productivity](/Productivity)
 * [🌱 ~ Books](/Books)
 * [🌱 ~ Documentaries](/Documentaries)
+* [🌱 ~ Designing](/Designing)
 
 ---
 #### 💡Inspiration [polarhive](https://github.com/polarhive/knowledge)
