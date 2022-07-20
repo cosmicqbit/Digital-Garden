@@ -17,3 +17,6 @@
 * [Figma](https://www.figma.com/)
 * [Blender](https://www.blender.org/)
   
+### Task Management
+* [Todoist](https://todoist.com/)
+* [Notion](https://notion.so)
