@@ -9,6 +9,7 @@
 * [Librewolf](https://librewolf.net/https://librewolf.net/)
   
 ### Test Messenger
+* [Element](https://element.io)
 * [Telegram](https://telegram.org/)
 * [Matrix](https://matrix.org/)
 * [Session](https://getsession.org/)
