@@ -14,3 +14,8 @@ A collection of books which either I've read or I'm looking forward to read.
 * Leadership by Robin Sharma
 * 7 Habits of Highly Effective People
 * The Greatness Manual
+
+### Linux
+* Learning Modern Linux
+* Linux Cookbook
+* Efficient Linux at the Command Line
