@@ -8,3 +8,8 @@
 # Designing 
 * [Figma](https://figma.com)
 * [Figmatemplates](figmatemplates.net/)
+
+# DevOps
+* [90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+* [DevOpsExercises](https://github.com/bregman-arie/devops-exercises)
+* [DevOpsResources](https://github.com/bregman-arie/devops-resources)
