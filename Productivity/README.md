@@ -21,6 +21,8 @@
 ### Notes Taking
 * [GoodNotes](https://www.goodnotes.com/)
 * [Notion](https://notion.so)
+* [Notesnook](https://notesnook.com/)
+* [Lorien](https://github.com/mbrlabs/Lorien)
 
 ### Designing / 3D
 * [Figma](https://www.figma.com/)
