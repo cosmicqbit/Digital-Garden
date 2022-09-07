@@ -23,6 +23,7 @@
 * [Notion](https://notion.so)
 * [Notesnook](https://notesnook.com/)
 * [Lorien](https://github.com/mbrlabs/Lorien)
+* [Helix](https://helix-editor.com/)
 
 ### Designing / 3D
 * [Figma](https://www.figma.com/)
