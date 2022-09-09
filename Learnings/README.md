@@ -14,3 +14,4 @@
 * [DevOpsExercises](https://github.com/bregman-arie/devops-exercises)
 * [DevOpsResources](https://github.com/bregman-arie/devops-resources)
 * [AWS Cloud Practitioner](https://zerotomastery.io/courses/learn-aws-cloud-practitioner)
+* [AWS Certified Cloud Practitioner Certification Course](https://www.youtube.com/watch?v=SOTamWNgDKc)
