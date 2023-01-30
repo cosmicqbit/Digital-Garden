@@ -9,6 +9,7 @@ A collection of books which either I've read or I'm looking forward to read.
 * Minhajul Abideen by Imam Al Gazali (May Almigthy be Pleased with him)
 * Faizan e Namaz
 * Faizan e Ramadan
+* Islami Aqaid
 
 ### Self Help
 * Leadership by Robin Sharma
