@@ -26,3 +26,5 @@ A collection of books which either I've read or I'm looking forward to read.
 * Python Crash Course
 * Head First Python
 * Python Data Science Handbook
+
+I will be adding book notes on my [personal website](https://cosmicqbit.dev)
