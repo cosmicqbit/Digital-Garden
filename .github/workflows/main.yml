@@ -5,23 +5,22 @@ on:
     branches: [main]
   pull_request:
     branches: [main]
-
   workflow_dispatch:
 
-  jobs:
-    build:
-      runs-on: ubuntu-latest
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-      steps:
-        - uses: actions/checkout@v3
+    steps:
+      - uses: actions/checkout@v3
 
-        - name: Step 1
-          run: echo "Hello this is working"
-        - name: Step 2
-          run: echo "This is step #2"
+      - name: Step 1
+        run: echo "Hello this is working"
+      - name: Step 2
+        run: echo "This is step #2"
 
-    build-api:
-      runs-on: windows-latest
+  build-api:
+    runs-on: windows-latest
 
-      steps:
-        - run: echo Building
+    steps:
+      - run: echo Building
