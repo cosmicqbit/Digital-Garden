@@ -15,5 +15,7 @@ on:
       steps:
         - uses: actions/checkout@v3
 
-        - name: First script to run
+        - name: Step 1
           run: echo "Hello this is working"
+	- name: Step 2
+	  run: echo "This is step #2"
