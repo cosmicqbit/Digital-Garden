@@ -1,0 +1,19 @@
+name: Workflow Labs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+  workflow_dispatch:
+
+  jobs:
+    build:
+      runs-on: ubuntu-latest
+
+      step:
+        uses: actions/checkout@v3
+
+        - name: First script to run
+          run: echo "Hello this is working"
