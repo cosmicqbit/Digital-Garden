@@ -17,7 +17,7 @@ jobs:
       - name: Step 1
         run: echo "Hello this is working"
       - name: Step 2
-        run: echo "This is step #2"
+        run: echo "This is step 2"
 
   build-api:
     runs-on: windows-latest
